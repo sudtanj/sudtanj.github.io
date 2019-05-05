@@ -65,5 +65,15 @@
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
     </item>
     
+    <item>
+      <title>Store</title>
+      <link>https://sudtanj.github.io/store/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://sudtanj.github.io/store/</guid>
+      <description> Welcome to Jekyll! You’ll find this post in your directory. Go ahead and edit it and re-build the site to see your changes.
+    </description>
+    </item>
+    
   </channel>
 </rss>
